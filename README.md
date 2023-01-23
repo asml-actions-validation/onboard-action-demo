@@ -17,7 +17,7 @@ The time we greeted you.
 
 ## Example usage
 
-uses: vineeth-asml/onboard-action-demo@v2
+uses: vineeth-asml/onboard-actions-demo@v2
 with:
   who-to-greet: 'Mona the Octocat'
 
